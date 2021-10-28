@@ -1,3 +1,5 @@
+#Equipo 7
+
 from random import choice
 from turtle import *
 from freegames import floor, vector
@@ -136,7 +138,7 @@ def move():
                 else:
                     #El pacman está abajo a mi izquierda
                     options = [vector(-5, 0),vector(0, -5)] #LD
-                    
+
             plan = choice(options)
             course.x = plan.x
             course.y = plan.y
