@@ -1,5 +1,6 @@
 #Equipo 7
-
+# Abiel Moisés Borja García     A01654937
+# Alejandro Mariacca Santin     A01654102
 from random import choice
 from turtle import *
 from freegames import floor, vector
